@@ -111,8 +111,8 @@ STORIES = [
      "Maltese ship also struck."),
     ("RUSSIA & UKRAINE",
      "Kryvyi Rih double-tap kills 2",
-     "A missile then drones hit Zelenskyy's hometown; a seven-year-old "
-     "is killed, 60 wounded."),
+     "A missile then drones hit Kryvyi Rih; a boy of seven dies and "
+     "60 are hurt."),
     ("RUSSIA & UKRAINE",
      "Russian refining cut 45% by Kyiv",
      "Ukrainian strikes have cut crude processing nearly in half since "
